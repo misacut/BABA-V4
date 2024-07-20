@@ -1,14 +1,14 @@
 # Don't use quotes( " and ' )
-#SCRIPT BY VENOMxCRAZY
+#SCRIPT BY BABAPBX
   
 #Enter Your Bot Token here get it from @botfarher
-BOT_TOKEN=("7424479555:AAG21En_vWhghzaUAhKjJ-DoZaLV3KBH4")
+BOT_TOKEN=("7319909806:AAHodKp4T64jQBHOcy9DtuJ8PLKmi-FjjvI")
 
   #Enter Your telegram username here without @
-OWNER_USERNAME=("venomXcrazy")
+OWNER_USERNAME=("babapbx")
 
   #Enter your admin id here Get it from @missRose_bot by typing /info
-ADMIN_IDS=("5588464519")
+ADMIN_IDS=("5715330632")
 
 
 
